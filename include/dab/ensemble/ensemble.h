@@ -1,4 +1,4 @@
-es/*
+/*
  * Copyright (C) 2017 Opendigitalradio (http://www.opendigitalradio.org/)
  * Copyright (C) 2017 Felix Morgner <felix.morgner@hsr.ch>
  * Copyright (C) 2017 Tobias Stauber <tobias.stauber@hsr.ch>
